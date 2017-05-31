@@ -68,3 +68,5 @@ Generic Platform Game
  - [ ] Game is playable by one player
  - [ ] Game follows rules established in tutorial
  - [ ] Game page is linked from public/index.html
+
+ Minor modification for the commit step on goal 441
